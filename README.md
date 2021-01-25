@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Sermsuk. I'm new around here. I just find my joy in competitive programming, but I found out that I lack of some algorithms and data structures knowledge.
+
+💬 As mentioned, I'll share my progress of how I learned and reviewed things to solve the problems mostly from codeforces and HackerRank. 
 <!--
 **srmsk7/srmsk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
